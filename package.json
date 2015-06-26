@@ -1,0 +1,13 @@
+{
+  "name": "lcss",
+  "version": "0.0.1",
+  "description": "Local CSS command line tool",
+  "author": "Jack Callister",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "css-modules-loader-core": "0.0.10"
+  }
+}
